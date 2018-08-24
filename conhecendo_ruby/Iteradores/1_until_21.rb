@@ -1,0 +1,1 @@
+(1..21).step(2).each {|e| puts "Número #{e}"}

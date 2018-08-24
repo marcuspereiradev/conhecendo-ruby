@@ -1,0 +1,1 @@
+(1..10).each {|e| puts "Array contém o número #{e}"}

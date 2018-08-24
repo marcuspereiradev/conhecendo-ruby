@@ -1,0 +1,1 @@
+(0..10).each_with_index {|item, indice| puts "#{item} indice #{indice}"}

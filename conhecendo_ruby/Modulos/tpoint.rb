@@ -7,6 +7,5 @@ module Paulista
     end
 end
 p = Paulista::Pessoa.new
-
 # Para ativarmos a TracePoint , criamos uma nova instância da classe, com 
 # os eventos que queremos monitorar, e logo após chamamos o método enable
